@@ -1,0 +1,88 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Kedar's Tech Feed</title>
+    <description>Kedar's Daily Tech News Feed</description>
+
+    <item>
+      <title>AI companies are building huge natural gas plants to power data centers. What could go wrong?</title>
+      <link>https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/</link>
+      <description>Major AI-driven firms including Meta, Microsoft, and Google are investing in large-scale natural gas power plants to meet the soaring electricity demands of their expanding data center networks. The trend marks a shift from renewable-focused strategies toward fossil fuel reliance, sparking concerns over carbon emissions and long-term sustainability. Critics warn that the rush to secure natural gas supplies may lock in infrastructure that contradicts broader climate goals, potentially leading to regulatory pushback. The article examines the financial implications, noting that while natural gas offers immediate reliability, it could expose companies to volatile fuel prices and future carbon taxes. Industry analysts suggest a balanced approach, integrating cleaner energy sources with advanced efficiency measures to mitigate environmental impact while supporting AI workloads.</description>
+      <guid>https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/</guid>
+    </item>
+
+
+    <item>
+      <title>TechCrunch Mobility: 'A stunning lack of transparency' from AV companies</title>
+      <link>https://techcrunch.com/2026/04/05/techcrunch-mobility-a-stunning-lack-of-transparency/</link>
+      <description>U.S. Senator Markey has sent letters to seven autonomous vehicle developers—Aurora, May Mobility, Motional, Nuro, Tesla, Waymo, and Zoox—demanding answers about their use of remote assistance operators that can assume direct control of vehicles. The inquiry highlights a perceived opacity in how companies intervene in autonomous driving scenarios, raising safety and accountability concerns. Tesla disclosed that its remote operators may take full control as an escalation measure, prompting calls for the National Highway Traffic Safety Administration to investigate. The piece also notes Rivian's spin‑off micromobility venture partnering with DoorDash to create autonomous delivery vehicles, illustrating the broader expansion of autonomous technologies beyond passenger transport.</description>
+      <guid>https://techcrunch.com/2026/04/05/techcrunch-mobility-a-stunning-lack-of-transparency/</guid>
+    </item>
+
+
+    <item>
+      <title>In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants</title>
+      <link>https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/</link>
+      <description>Japan is accelerating the deployment of physical artificial intelligence to address acute labor shortages, especially in sectors like manufacturing, logistics, and eldercare. Backed by a $6.3 billion government fund, initiatives aim to capture a 30% share of the global physical AI market by 2040. Companies such as Woven Capital‑backed startups are piloting AI‑driven robots for tasks ranging from assembly line work to home assistance. The article outlines regulatory support, partnership models with major tech firms, and early field results showing productivity gains and reduced injury rates. Yet it warns of potential workforce displacement and stresses the need for reskilling programs to ensure inclusive growth.</description>
+      <guid>https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/</guid>
+    </item>
+
+
+    <item>
+      <title>Peter Thiel's big bet on solar‑powered cow collars</title>
+      <link>https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/</link>
+      <description>Founders Fund has led a $220 million Series E round for Halter, a startup that equips livestock with solar‑charged smart collars to monitor health, location, and grazing patterns. The funding brings the company’s valuation to $2 billion and underscores a growing investor appetite for ag‑tech solutions that blend renewable energy with IoT. The collars harvest sunlight to power sensors, transmitting real‑time data via low‑power networks to farm managers, promising reductions in cattle mortality and improvements in feed efficiency. Analysts see the technology as a blueprint for broader applications in precision agriculture, potentially transforming supply chains and sustainability metrics across the sector.</description>
+      <guid>https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/</guid>
+    </item>
+
+
+    <item>
+      <title>AI is making crypto's security problem even worse, Ledger CTO warns</title>
+      <link>https://www.coindesk.com/tech/2026/04/05/ai-is-making-crypto-s-security-problem-even-worse-ledger-cto-warns</link>
+      <description>Ledger’s chief technology officer, Charles Guillemet, cautions that advances in artificial intelligence are lowering the barriers for sophisticated hacking of cryptocurrency wallets and exchanges. AI‑driven tools can automate key‑generation attacks and improve phishing efficacy, making illicit access more affordable and scalable. Ledger emphasizes the need for quantum‑resistant cryptography and multi‑factor authentication to stay ahead of evolving threats. The report also highlights industry‑wide initiatives, including a $1.3 trillion investment in quantum‑proofing Bitcoin’s blockchain, indicating a shift toward stronger defensive architectures as AI reshapes the cyber‑risk landscape.</description>
+      <guid>https://www.coindesk.com/tech/2026/04/05/ai-is-making-crypto-s-security-problem-even-worse-ledger-cto-warns</guid>
+    </item>
+
+
+    <item>
+      <title>Solana’s quantum‑threat readiness reveals harsh trade‑off: security vs speed</title>
+      <link>https://www.coindesk.com/tech/2026/04/04/solana-s-quantum-threat-readiness-reveals-harsh-tradeoff-security-vs-speed</link>
+      <description>Solana’s development team released a technical brief outlining the blockchain’s preparations for potential quantum computing attacks. The network’s high‑throughput design, which relies on shorter cryptographic keys, makes it more vulnerable to quantum decryption, prompting a roadmap that includes transitioning to lattice‑based signatures. However, the shift could reduce transaction speeds and increase operational costs, challenging Solana’s core value proposition of near‑instant settlement. The article discusses the broader implications for high‑performance blockchains and the industry’s race to adopt post‑quantum cryptography before practical quantum computers become a reality.</description>
+      <guid>https://www.coindesk.com/tech/2026/04/04/solana-s-quantum-threat-readiness-reveals-harsh-tradeoff-security-vs-speed</guid>
+    </item>
+
+
+    <item>
+      <title>Polymarket took down wagers tied to rescue of downed Air Force officer</title>
+      <link>https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/</link>
+      <description>Prediction market platform Polymarket removed betting options related to the timeline for confirming the rescue of a U.S. Air Force officer shot down over Iran. Critics argued that such wagers could trivialize serious geopolitical events and potentially influence public perception. The platform defended its decision, citing a new policy to limit bets on sensitive national security topics. The incident sparks broader debate over the ethical responsibilities of decentralized betting markets and their role in shaping discourse around real‑world crises.</description>
+      <guid>https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/</guid>
+    </item>
+
+
+    <item>
+      <title>Breaking Tech News on April 4, 2026: AI Innovations, Space Battles, and Security Shifts</title>
+      <link>https://coaio.com/news/2026/04/breaking-tech-news-on-april-4-2026-ai-innovations-space-battles-and-2lgc/</link>
+      <description>A roundup of major tech developments on April 4, 2026, includes breakthroughs in generative AI models that democratize content creation for non‑technical users, escalated competition in lunar missions as NASA’s Artemis II prepares its crew for a historic Moon flight, and heightened cybersecurity alerts following a series of state‑backed attacks on critical infrastructure. The report also mentions new fossil discoveries predating the Cambrian period, underscoring interdisciplinary links between tech-driven data analysis and paleontology. Collectively, these stories illustrate the accelerating pace of innovation across AI, space exploration, and security domains.</description>
+      <guid>https://coaio.com/news/2026/04/breaking-tech-news-on-april-4-2026-ai-innovations-space-battles-and-2lgc/</guid>
+    </item>
+
+
+    <item>
+      <title>Consumer Tech News (Mar 30‑Apr 2): Tesla, Nio, XPeng drive EV growth; Apple iPhone 17; Meta Ray‑Ban launch</title>
+      <link>https://daytraders.com/news/2026/04/04/consumer-tech-news-mar-30-apr-2-tesla-nio-xpeng-drive-ev-growth-apple-iphone-17-meta-ray-ban-launche</link>
+      <description>The latest consumer tech roundup highlights strong sales momentum for electric‑vehicle makers Tesla, Nio, and XPeng as global EV subsidies expand, while Apple unveiled the iPhone 17 with a periscope camera and under‑display fingerprint sensor. Meta partnered with Ray‑Ban to release a new line of AR‑enabled sunglasses featuring proprietary spatial audio. The article also notes rising competition in autonomous driving software and a surge in demand for home‑charging infrastructure, reflecting broader trends toward electrification and immersive media experiences.</description>
+      <guid>https://daytraders.com/news/2026/04/04/consumer-tech-news-mar-30-apr-2-tesla-nio-xpeng-drive-ev-growth-apple-iphone-17-meta-ray-ban-launche</guid>
+    </item>
+
+
+    <item>
+      <title>Artemis II crew begins final preparations for lunar mission</title>
+      <link>https://arstechnica.com/space/2026/04/four-astronauts-are-now-inexorably-bound-for-the-moon/</link>
+      <description>NASA’s Artemis II mission is entering its last pre‑launch phase, with four astronauts undergoing intensive simulations and health checks ahead of a planned departure in early May 2026. The crew will perform a series of lunar orbit maneuvers, marking the first crewed deep‑space flight since Apollo. Engineers are finalizing life‑support system upgrades and radiation shielding, while international partners from ESA and JAXA provide navigation and communication support. The mission is seen as a critical stepping stone toward the eventual establishment of a sustainable lunar gateway and eventual crewed landings.</description>
+      <guid>https://arstechnica.com/space/2026/04/four-astronauts-are-now-inexorably-bound-for-the-moon/</guid>
+    </item>
+
+  </channel>
+</rss>
