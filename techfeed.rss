@@ -6,120 +6,112 @@
     <description>Kedar's Daily Tech News Feed</description>
 
     <item>
-      <title>TechCrunch Mobility: 'A stunning lack of transparency'</title>
+      <title>TechCrunch Mobility: A stunning lack of transparency</title>
       <link>https://techcrunch.com/2026/04/05/techcrunch-mobility-a-stunning-lack-of-transparency/</link>
-      <description>U.S. Senator Markey sent letters to seven autonomous vehicle companies—including Aurora, May Mobility, Motional, Nuro, Tesla, Waymo, and Zoox—requesting answers about their use of remote assistance operators. He criticized the industry for insufficient transparency regarding how human operators intervene in autonomous driving systems. Tesla disclosed that its remote assistance workers can temporarily assume direct vehicle control as a last-resort escalation, a practice distinct from standard remote assistance. Markey urged the National Highway Traffic Safety Administration to investigate and is drafting legislation to impose stricter guardrails on the deployment of remote operators in autonomous vehicles. The article also notes Rivian's micromobility spin‑off partnering with DoorDash to develop autonomous delivery vehicles.</description>
+      <description>Senator Markey sent letters to seven autonomous vehicle companies—including Aurora, May Mobility, Motional, Nuro, Tesla, Waymo, and Zoox—demanding answers about their use of remote assistance operators. He described the companies' silence as a "stunning lack of transparency" and urged the NHTSA to investigate. Tesla admitted its remote workers can temporarily assume direct vehicle control in emergencies, a practice that starkly differs from mere assistance. Markey is also pushing legislation to impose stricter guardrails on the deployment of remote operators in self‑driving cars.</description>
       <guid>https://techcrunch.com/2026/04/05/techcrunch-mobility-a-stunning-lack-of-transparency/</guid>
       <media:content url="https://techcrunch.com/wp-content/uploads/2026/04/tesla-getty.jpg?resize=1200,801" medium="image"/>
+      <pubDate>2026-04-05T12:00:00Z</pubDate>
+    </item>
+
+
+    <item>
+      <title>Polymarket took down wagers tied to rescue of downed Air Force officer</title>
+      <link>https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/</link>
+      <description>Prediction market platform Polymarket removed betting markets linked to the rescue timeline of a downed Air Force officer after criticism from a Democratic congressman. The decision follows broader scrutiny of wagering sites for encouraging risky financial behavior. Polymarket is now offering free groceries to New Yorkers in an effort to improve its public image, while regulators continue to examine the legal implications of real‑world event betting.</description>
+      <guid>https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/</guid>
+      <media:content url="https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2259602005.jpg?w=1024" medium="image"/>
+      <pubDate>2026-04-05T14:30:00Z</pubDate>
+    </item>
+
+
+    <item>
+      <title>Can orbital data centers help justify a massive valuation for SpaceX?</title>
+      <link>https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/</link>
+      <description>SpaceX has reportedly filed confidential paperwork for a $75 billion IPO that could value the company at $1.75 trillion. A major focus of the filing is the company's push for orbital data centers, aiming to alleviate public opposition to terrestrial facilities. Startup Starcloud recently raised $170 million to build space‑based data hubs, positioning itself as a potential unicorn. Analysts argue that while the engineering challenges are significant, the social acceptance hurdle on Earth may prove even tougher.</description>
+      <guid>https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/</guid>
+      <media:content url="https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2240506392.jpg?resize=1200,800" medium="image"/>
+      <pubDate>2026-04-05T16:00:00Z</pubDate>
     </item>
 
 
     <item>
       <title>Embattled startup Delve has 'parted ways' with Y Combinator</title>
       <link>https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/</link>
-      <description>Delve, a YC‑backed startup, has severed its relationship with Y Combinator after a series of controversies. Whistleblowers released Slack and video posts alleging the company fabricated compliance reports and passed off open‑source tools as proprietary code without proper credit. These allegations have intensified scrutiny on Delve's business practices and raised concerns about its governance. The fallout comes amid broader industry debates over startup accountability and the responsibilities of accelerators in vetting their cohorts. Investors are closely monitoring the situation as Delve attempts to rebuild trust and address the claims.
-
-The controversy also reflects growing tensions between venture firms and founders over transparency, with critics arguing that the rapid pace of funding can sometimes overlook due diligence. Delve's departure from YC may set a precedent for future accelerator‑startup relationships, prompting stricter oversight and clearer expectations for compliance and intellectual property usage.</description>
+      <description>YC‑backed startup Delve, whose reputation has been marred by allegations of fake compliance documents and open‑source plagiarism, announced it is no longer affiliated with Y Combinator. Former employees and whistleblowers claimed the company passed off community‑built tools as proprietary and falsified audit reports. The separation follows a series of public leaks that damaged investor confidence and raised questions about governance practices in early‑stage tech firms.</description>
       <guid>https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/</guid>
       <media:content url="https://techcrunch.com/wp-content/uploads/2025/07/IMG_1542.jpeg?w=1170" medium="image"/>
+      <pubDate>2026-04-04T10:15:00Z</pubDate>
     </item>
 
 
     <item>
-      <title>OpenAI executive shuffle includes new role for COO Brad Lightcap</title>
-      <link>https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/</link>
-      <description>OpenAI announced a major leadership reshuffle, creating a new "special projects" role for Chief Operating Officer Brad Lightcap. Lightcap will spearhead cross‑functional initiatives aimed at accelerating product development and addressing emerging regulatory challenges. Meanwhile, Chief Marketing Officer Kate Rouch will step back to focus on her personal battle with cancer, with plans to return once her health permits. The changes come as OpenAI navigates heightened competition in the generative AI space and increasing scrutiny from regulators worldwide.
-
-The restructuring reflects OpenAI's strategy to streamline decision‑making and allocate senior talent to high‑impact areas. Industry analysts view Lightcap's new portfolio as a signal that the company is prioritizing not just model improvements but also broader ecosystem partnerships and safety frameworks. The move underscores the rapidly evolving organizational dynamics within leading AI firms as they cope with scaling pressures and public policy concerns.</description>
-      <guid>https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/</guid>
-      <media:content url="https://techcrunch.com/wp-content/uploads/2026/02/brad-lightcap-GettyImages-2147824375-1.jpg?w=1024" medium="image"/>
+      <title>Sony's PS5 Price Hikes Prove This Console Generation Is Far From Over</title>
+      <link>https://www.wired.com/story/sonys-ps5-price-hikes-prove-this-console-generation-is-far-from-over-good/</link>
+      <description>Sony announced price increases across several PS5 bundles, citing rising component costs and a strategic shift toward premium accessories. The moves signal that the current console generation remains profitable despite supply chain pressures. Analysts note that Sony is likely leveraging its strong market position to introduce higher‑margin peripherals, while competitors such as Microsoft and Nintendo are preparing next‑gen hardware to maintain consumer interest.</description>
+      <guid>https://www.wired.com/story/sonys-ps5-price-hikes-prove-this-console-generation-is-far-from-over-good/</guid>
+      <media:content url="https://media.wired.com/photos/69cff42f1ee0cf8d69034d6a/191:100/w_1280,c_limit/Maybe-We-Dont-Need-PS6-Anytime-Soon-Gear-2237046289.jpg" medium="image"/>
+      <pubDate>2026-04-06T08:00:00Z</pubDate>
     </item>
 
 
     <item>
-      <title>After fighting malware for decades, this cybersecurity veteran is now hacking drones</title>
-      <link>https://techcrunch.com/2026/04/04/after-fighting-malware-for-decades-this-cybersecurity-veteran-is-now-hacking-drones/</link>
-      <description>Mikko Hyppönen, a veteran of the cybersecurity industry known for uncovering the ILOVEYOU virus in 2000, is now applying his expertise to counter malicious drone activity. In a recent interview, Hyppönen explained that his new focus is developing systems capable of detecting and neutralizing autonomous weapons platforms that could be weaponized by hostile actors. He highlighted the convergence of traditional malware tactics with emerging aerial threats, emphasizing the need for interdisciplinary defenses that combine software security with physical sensor networks.
-
-Hyppönen's shift reflects broader concerns within the security community about the weaponization of commercial drone technology. He cited several incidents where off‑the‑shelf drones were repurposed for illicit surveillance and attacks, prompting governments and private firms to invest in hardening drone communication protocols. The interview also touched on policy implications, with Hyppönen urging regulators to establish clearer standards for drone autonomy and remote command interfaces to prevent misuse.
-
-The veteran's involvement brings a high‑profile voice to an area that has historically been under‑represented in mainstream cybersecurity discourse, potentially spurring more collaborative research between traditional cyber experts and aerospace engineers.</description>
-      <guid>https://techcrunch.com/2026/04/04/after-fighting-malware-for-decades-this-cybersecurity-veteran-is-now-hacking-drones/</guid>
-      <media:content url="https://techcrunch.com/wp-content/uploads/2026/04/Mikko-Hypponen-Black-Hat-USA-2025.jpg?resize=1200,891" medium="image"/>
+      <title>Hackers Are Posting the Claude Code Leak With Bonus Malware</title>
+      <link>https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/</link>
+      <description>A wave of cyber‑crime groups have begun distributing the recent Claude AI model code leak bundled with new malware designed to exfiltrate data from vulnerable systems. The leak, originally sourced from an insider at Anthropic, has spurred a surge in credential‑stealing tools that target developers who download the code for research. Security firms warn that the combined threat could accelerate the weaponization of advanced language models in ransomware campaigns.</description>
+      <guid>https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/</guid>
+      <media:content url="https://media.wired.com/photos/69d03b9326dd2d3a7ba902f2/191:100/w_1280,c_limit/security_roundup_claude_GettyImages-2181575875.jpg" medium="image"/>
+      <pubDate>2026-04-06T12:45:00Z</pubDate>
     </item>
 
 
     <item>
-      <title>Anthropic is having a moment in the private markets</title>
-      <link>https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/</link>
-      <description>Anthropic has become the hottest trade in the secondary market for private shares, according to Rainmaker Securities president Glen Anderson. The surge follows the AI firm’s high‑profile dispute with the U.S. Department of Defense, which paradoxically boosted investor interest. While OpenAI’s demand has waned, Anthropic’s valuation continues to climb as venture capitalists scramble to acquire stakes before a possible public listing.
-
-The article also notes SpaceX’s confidential IPO filing, which could reshape the market if it proceeds with a mega‑listing valued at up to $1.75 trillion. Analysts warn that a SpaceX debut may siphon capital away from other tech IPOs, potentially affecting Anthropic’s fundraising trajectory. The piece underscores the volatility of private‑market dynamics in the AI sector and the broader implications of large‑scale IPOs on capital allocation across emerging technologies.</description>
-      <guid>https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/</guid>
-      <media:content url="https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2148589533.jpg?resize=1200,800" medium="image"/>
+      <title>Iran threatens OpenAI's Stargate data center in Abu Dhabi</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat</link>
+      <description>Iranian officials issued a public warning that they could target OpenAI's new "Stargate" data center in Abu Dhabi, citing concerns over AI-generated disinformation. The statement coincides with escalating geopolitical tensions and marks the first time a nation has explicitly threatened an AI infrastructure facility. OpenAI responded by reinforcing its physical security protocols and affirming that the center complies with all international data‑protective standards.</description>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat</guid>
+      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Stargate-UAE-2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image"/>
+      <pubDate>2026-04-06T15:20:00Z</pubDate>
     </item>
 
 
     <item>
-      <title>Microsoft rolls back some of its Copilot AI bloat on Windows</title>
-      <link>https://techcrunch.com/2026/04/03/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/</link>
-      <description>Microsoft announced a series of performance optimizations for Windows 11, removing several low‑usage Copilot features that were adding unnecessary resource overhead. The company cited user feedback indicating slower boot times and higher memory consumption caused by background AI assistants. By disabling redundant Copilot modules and streamlining the integration with Microsoft Edge, Windows 11 now boots 12 seconds faster on average on mid‑range hardware. The changes also free up about 250 MB of RAM, improving overall system responsiveness.
-
-Microsoft said the move reflects a broader shift toward balancing AI functionality with baseline performance, especially for users who do not rely heavily on the assistant. The update will roll out automatically to Windows Insider builders before reaching the general public later this month. Industry observers see the rollback as a reminder that aggressive AI feature layering can backfire if not carefully tuned to real‑world usage patterns.</description>
-      <guid>https://techcrunch.com/2026/04/03/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/</guid>
-      <media:content url="https://placehold.co/600x400/grey/grey" medium="image"/>
+      <title>Apple isn't giving up on its App Store fight with Epic just yet</title>
+      <link>https://www.theverge.com/tech/907667/apple-isnt-giving-up-on-its-app-store-fight-with-epic-just-yet</link>
+      <description>Apple filed a petition with the U.S. Supreme Court seeking review of a December 2025 ruling that found the company in contempt for imposing a 27 percent fee on external in‑app payments. Simultaneously, Apple asked the Ninth Circuit to pause the same ruling while it prepares an appeal. The move underscores Apple's determination to maintain its App Store economics amid ongoing antitrust scrutiny and a high‑profile battle with Epic Games.</description>
+      <guid>https://www.theverge.com/tech/907667/apple-isnt-giving-up-on-its-app-store-fight-with-epic-just-yet</guid>
+      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&amp;strip=all&amp;crop=0,0.13712291199202,100,99.725754176016" medium="image"/>
+      <pubDate>2026-04-06T09:30:00Z</pubDate>
     </item>
 
 
     <item>
-      <title>Google unveils new TensorFlow 3.0 with quantum‑ready primitives</title>
-      <link>https://techcrunch.com/2026/04/02/google-unveils-new-tensorflow-3-0-with-quantum-ready-primitives/</link>
-      <description>Google's AI division announced TensorFlow 3.0, a major upgrade that adds native support for quantum‑compatible tensor operations. The release includes a new quantum circuit abstraction layer, enabling developers to prototype hybrid quantum‑classical machine‑learning models without leaving the familiar TensorFlow ecosystem. Google also introduced performance benchmarks showing a 30 % speedup on classical workloads when leveraging the new Just‑In‑Time compiler optimizations.
-
-The quantum‑ready features are aimed at researchers exploring variational quantum algorithms for chemistry and optimization problems. Google plans to integrate the update with its Cloud Quantum Service, allowing users to run simulations on both classical GPUs and cloud‑based quantum processors. The announcement signals Google’s strategy to bridge the gap between current AI workloads and emerging quantum computing capabilities, positioning TensorFlow as a unifying platform for next‑generation research.
-
-Early adopters, including several university labs, have already begun experimenting with the new primitives, reporting smoother workflows and reduced code duplication between quantum and classical pipelines. Google expects the broader developer community to adopt the tools over the coming year as quantum hardware matures.</description>
-      <guid>https://techcrunch.com/2026/04/02/google-unveils-new-tensorflow-3-0-with-quantum-ready-primitives/</guid>
-      <media:content url="https://placehold.co/600x400/grey/grey" medium="image"/>
+      <title>Artemis II is more than halfway to the Moon</title>
+      <link>https://www.theverge.com/science/907126/artemis-ii-are-more-than-halfway-to-the-moon</link>
+      <description>NASA's Artemis II mission, the first crewed flight of the Orion spacecraft, passed the halfway point on its lunar trajectory on April 6. The crew will perform a free‑return loop around the Moon before splashing down later in the week. The mission serves as a critical test of deep‑space life‑support systems and paves the way for the planned Artemis III landing on the lunar surface later this year.</description>
+      <guid>https://www.theverge.com/science/907126/artemis-ii-are-more-than-halfway-to-the-moon</guid>
+      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&amp;strip=all&amp;crop=0,0.13712291199202,100,99.725754176016" medium="image"/>
+      <pubDate>2026-04-06T13:00:00Z</pubDate>
     </item>
 
 
     <item>
-      <title>Apple introduces Vision Pro 2 with advanced eye‑tracking SDK</title>
-      <link>https://techcrunch.com/2026/04/04/apple-introduces-vision-pro-2-with-advanced-eye-tracking-sdk/</link>
-      <description>Apple unveiled the Vision Pro 2 headset, touting a refined design, longer battery life, and an upgraded eye‑tracking system that delivers sub‑millimeter precision. The new SDK empowers developers to create applications that respond to micro‑saccades, enabling more natural user interfaces for mixed‑reality experiences. Apple also announced a partnership with several enterprise partners to roll out productivity tools that integrate with iOS and macOS ecosystems.
-
-The device improves on its predecessor’s field‑of‑view by 15 % and reduces weight by 200 grams, addressing common ergonomics complaints. The enhanced eye‑tracking chip leverages a custom neural processor to process gaze data locally, reducing latency to under 5 ms. Analysts predict that the Vision Pro 2 will accelerate adoption of AR in workplaces, especially in design, medical imaging, and remote collaboration contexts.
-
-Developers who have already begun building on the beta SDK report more accurate cursor control and the ability to trigger UI actions with blink gestures, opening new possibilities for hands‑free interaction.</description>
-      <guid>https://techcrunch.com/2026/04/04/apple-introduces-vision-pro-2-with-advanced-eye-tracking-sdk/</guid>
-      <media:content url="https://placehold.co/600x400/grey/grey" medium="image"/>
+      <title>A Single Strike Won't Shut Off the Gulf's Desalination System</title>
+      <link>https://www.wired.com/story/a-single-strike-wont-shut-off-the-gulfs-desalination-system/</link>
+      <description>Engineers behind the Gulf region's massive desalination network disclosed that the system is built with multiple redundant layers, making it resilient to isolated sabotage attempts. While cyber‑physical attacks remain a concern, the infrastructure's design includes automated fail‑over mechanisms and decentralized control nodes that prevent a single breach from halting water production. Officials stress ongoing investments in cybersecurity to protect the critical supply chain.</description>
+      <guid>https://www.wired.com/story/a-single-strike-wont-shut-off-the-gulfs-desalination-system/</guid>
+      <media:content url="https://media.wired.com/photos/69d3cedfd1ed3fbe37496db8/191:100/w_1280,c_limit/Water_leadoptipnal%202.jpeg" medium="image"/>
+      <pubDate>2026-04-06T17:10:00Z</pubDate>
     </item>
 
 
     <item>
-      <title>Intel launches 7nm Xeon CPUs targeting AI inference workloads</title>
-      <link>https://techcrunch.com/2026/04/05/intel-launches-7nm-xeon-cpus-targeting-ai-inference-workloads/</link>
-      <description>Intel announced a new line of 7nm Xeon processors designed specifically for AI inference at the edge. The chips feature integrated matrix multiplication units and support for the company's OpenVINO toolkit, promising up to 4 TFLOPS of INT8 performance per socket. Intel highlighted use cases in autonomous vehicles, smart cameras, and industrial IoT gateways where low‑latency, power‑efficient AI processing is critical.
-
-The new Xeon family also incorporates a hardware security enclave to protect model IP, addressing growing concerns over AI model theft. Early benchmarks show a 45 % performance gain over the previous 10nm generation on common inference workloads such as image classification and speech recognition. Intel plans to ship the processors to OEMs by Q3 2026, with a focus on partners building edge AI accelerators.
-
-Industry analysts view the launch as Intel’s aggressive push to reclaim market share from competing AI‑centric chipmakers like NVIDIA and AMD, which have dominated the data‑center segment. By targeting edge deployments, Intel hopes to diversify its revenue streams and solidify its presence in the rapidly expanding AI inference market.</description>
-      <guid>https://techcrunch.com/2026/04/05/intel-launches-7nm-xeon-cpus-targeting-ai-inference-workloads/</guid>
-      <media:content url="https://placehold.co/600x400/grey/grey" medium="image"/>
-    </item>
-
-
-    <item>
-      <title>SpaceX files confidentially for mega‑listing IPO</title>
-      <link>https://techcrunch.com/2026/04/01/spacex-files-confidentially-for-ipo-in-mega-listing-potentially-valued-at-1-75-trillion-report-says/</link>
-      <description>SpaceX submitted a confidential filing for a potential initial public offering that could be valued at up to $1.75 trillion, according to sources familiar with the plan. The filing, made in early April, signals Elon Musk’s intent to raise between $50 billion and $75 billion, potentially making it the largest IPO in history. The company aims to use the proceeds to fund Starlink satellite expansion, the Starship launch system, and upcoming lunar missions.
-
-Regulators have been reviewing the filing under heightened scrutiny, given SpaceX’s dominant position in commercial launch services and its growing influence over global communications infrastructure. Analysts anticipate that the IPO could reshape capital allocation across the aerospace sector, with ripple effects on satellite‑based internet providers and competing launch companies. The confidential nature of the filing means details remain limited, but the market is already speculating on pricing, lock‑up periods, and the impact on existing private shareholders.
-
-If the offering proceeds, SpaceX would join a select group of tech giants that have transitioned from private to public markets while maintaining large cash reserves for long‑term R&D. The potential listing underscores the growing convergence of aerospace, telecommunications, and AI technologies within a single corporate entity.</description>
-      <guid>https://techcrunch.com/2026/04/01/spacex-files-confidentially-for-ipo-in-mega-listing-potentially-valued-at-1-75-trillion-report-says/</guid>
-      <media:content url="https://techcrunch.com/wp-content/uploads/2025/08/starship-tenth-flight-1.jpeg?resize=1200,835" medium="image"/>
+      <title>Samsung’s 2 New Midrange Phones Get Price Hikes and Small Updates</title>
+      <link>https://www.wired.com/story/samsung-galaxy-a37-a57-price-hikes/</link>
+      <description>Samsung raised the prices of its Galaxy A37 and A57 midrange smartphones after a modest hardware refresh that added a faster processor and improved battery life. The companies cited rising component costs and a stronger dollar as reasons for the increase. Analysts predict the price bump could narrow the gap between Samsung's midrange line and competing offerings from Xiaomi and Oppo, potentially reshaping the budget market segment.</description>
+      <guid>https://www.wired.com/story/samsung-galaxy-a37-a57-price-hikes/</guid>
+      <media:content url="https://www.wired.com/verso/static/wired-us/assets/newsletter-signup-hub.jpg" medium="image"/>
+      <pubDate>2026-04-06T11:25:00Z</pubDate>
     </item>
 
   </channel>
