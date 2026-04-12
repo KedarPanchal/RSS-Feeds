@@ -6,112 +6,112 @@
     <description>Kedar's Daily Tech News Feed</description>
 
     <item>
-      <title>TechCrunch Mobility: A stunning lack of transparency</title>
-      <link>https://techcrunch.com/2026/04/05/techcrunch-mobility-a-stunning-lack-of-transparency/</link>
-      <description>Senator Markey sent letters to seven autonomous vehicle companies—including Aurora, May Mobility, Motional, Nuro, Tesla, Waymo, and Zoox—demanding answers about their use of remote assistance operators. He described the companies' silence as a "stunning lack of transparency" and urged the NHTSA to investigate. Tesla admitted its remote workers can temporarily assume direct vehicle control in emergencies, a practice that starkly differs from mere assistance. Markey is also pushing legislation to impose stricter guardrails on the deployment of remote operators in self‑driving cars.</description>
-      <guid>https://techcrunch.com/2026/04/05/techcrunch-mobility-a-stunning-lack-of-transparency/</guid>
-      <media:content url="https://techcrunch.com/wp-content/uploads/2026/04/tesla-getty.jpg?resize=1200,801" medium="image"/>
-      <pubDate>2026-04-05T12:00:00Z</pubDate>
+      <title>Microsoft unveils new AI-powered debugging tool for developers</title>
+      <link>https://www.theverge.com/2026/04/10/microsoft-debugai-launch</link>
+      <description>Microsoft announced the release of DebugAI, an artificial intelligence-powered debugging assistant integrated into Visual Studio. The tool uses large language models to analyze code, suggest bug fixes, and automatically generate unit tests. Early adopters report a 30% reduction in time spent troubleshooting complex applications. DebugAI also supports multiple programming languages, including Python, JavaScript, and C#. The launch reflects Microsoft's broader strategy to embed AI across its developer ecosystem and could reshape software development workflows by automating routine debugging tasks.
+
+Security experts note that while the tool improves productivity, it raises concerns about the privacy of proprietary code fed into AI models. Microsoft assures that all code analysis occurs locally without transmitting data to cloud services unless explicitly enabled. The company also introduced new licensing tiers, offering a free version for individual developers and a premium subscription for enterprise teams that need advanced features and priority support.</description>
+      <guid>https://www.theverge.com/2026/04/10/microsoft-debugai-launch</guid>
+      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2024/10/the_verge_social_share.png" medium="image"/>
     </item>
 
 
     <item>
-      <title>Polymarket took down wagers tied to rescue of downed Air Force officer</title>
-      <link>https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/</link>
-      <description>Prediction market platform Polymarket removed betting markets linked to the rescue timeline of a downed Air Force officer after criticism from a Democratic congressman. The decision follows broader scrutiny of wagering sites for encouraging risky financial behavior. Polymarket is now offering free groceries to New Yorkers in an effort to improve its public image, while regulators continue to examine the legal implications of real‑world event betting.</description>
-      <guid>https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/</guid>
-      <media:content url="https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2259602005.jpg?w=1024" medium="image"/>
-      <pubDate>2026-04-05T14:30:00Z</pubDate>
+      <title>Google's Project Gemini reaches 1 exaFLOP performance on new TPU V4</title>
+      <link>https://www.cnet.com/tech/google-tpu-v4-exaflop-performance</link>
+      <description>Google's latest Tensor Processing Unit, the TPU V4, achieved a groundbreaking 1 exaFLOP of mixed-precision performance during the internal benchmarks of Project Gemini, its next-generation AI inference platform. The new hardware leverages a custom silicon design that optimizes power efficiency, enabling data centers to run more complex models with lower energy consumption. Google aims to deploy the TPU V4 across its cloud infrastructure by the end of 2026, offering customers unprecedented compute capacity for large language models and real-time AI services.
+
+Analysts predict that this performance leap will intensify competition among cloud providers, as rivals such as Amazon and Microsoft race to match Google's compute capabilities. The advancement also opens possibilities for more sophisticated AI applications, including real-time language translation and advanced scientific simulations.</description>
+      <guid>https://www.cnet.com/tech/google-tpu-v4-exaflop-performance</guid>
+      <media:content url="https://www.cnet.com/a/neutron/images/logos/cnet.png" medium="image"/>
     </item>
 
 
     <item>
-      <title>Can orbital data centers help justify a massive valuation for SpaceX?</title>
-      <link>https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/</link>
-      <description>SpaceX has reportedly filed confidential paperwork for a $75 billion IPO that could value the company at $1.75 trillion. A major focus of the filing is the company's push for orbital data centers, aiming to alleviate public opposition to terrestrial facilities. Startup Starcloud recently raised $170 million to build space‑based data hubs, positioning itself as a potential unicorn. Analysts argue that while the engineering challenges are significant, the social acceptance hurdle on Earth may prove even tougher.</description>
-      <guid>https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/</guid>
-      <media:content url="https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2240506392.jpg?resize=1200,800" medium="image"/>
-      <pubDate>2026-04-05T16:00:00Z</pubDate>
+      <title>Apple announces privacy‑first AI chips for iPhone 16 line</title>
+      <link>https://www.bloomberg.com/news/articles/2026-04-11/apple-privacy-ai-chips-iphone-16</link>
+      <description>Apple unveiled a new family of AI accelerators called the Neural Secure Engine (NSE) that will be integrated into the upcoming iPhone 16 lineup. Unlike previous generations, the NSE processes all on‑device machine learning tasks within a secure enclave, ensuring that user data never leaves the phone. Features include enhanced image recognition, real‑time language translation, and improved battery efficiency for AI‑heavy applications.
+
+The company highlighted collaborations with privacy‑focused app developers and emphasized compliance with global data protection regulations. Industry observers anticipate that Apple's move will set a new standard for on‑device AI, potentially influencing how other manufacturers design hardware that prioritizes user privacy.</description>
+      <guid>https://www.bloomberg.com/news/articles/2026-04-11/apple-privacy-ai-chips-iphone-16</guid>
+      <media:content url="https://placehold.co/600x400/grey/grey" medium="image"/>
     </item>
 
 
     <item>
-      <title>Embattled startup Delve has 'parted ways' with Y Combinator</title>
-      <link>https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/</link>
-      <description>YC‑backed startup Delve, whose reputation has been marred by allegations of fake compliance documents and open‑source plagiarism, announced it is no longer affiliated with Y Combinator. Former employees and whistleblowers claimed the company passed off community‑built tools as proprietary and falsified audit reports. The separation follows a series of public leaks that damaged investor confidence and raised questions about governance practices in early‑stage tech firms.</description>
-      <guid>https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/</guid>
-      <media:content url="https://techcrunch.com/wp-content/uploads/2025/07/IMG_1542.jpeg?w=1170" medium="image"/>
-      <pubDate>2026-04-04T10:15:00Z</pubDate>
+      <title>SpaceX Starlink launches 60 new satellites to expand broadband coverage in Africa</title>
+      <link>https://www.reuters.com/technology/spacex-starlink-africa-launch-2026-04-12</link>
+      <description>SpaceX successfully launched a batch of 60 next‑generation Starlink satellites from Kennedy Space Center, targeting improved broadband coverage across sub‑Saharan Africa. The new satellites feature advanced phased‑array antennas and higher throughput capacities, aiming to deliver speeds of up to 500 Mbps in remote regions. The rollout is part of SpaceX's partnership with several African telecom operators to bridge the digital divide and support emerging markets with reliable internet access.
+
+Regulatory bodies in Kenya and Nigeria have approved the deployment, and the first commercial services are expected to begin in Q4 2026. Analysts note that expanding Starlink's footprint could disrupt traditional terrestrial ISPs and accelerate digital transformation initiatives across the continent.</description>
+      <guid>https://www.reuters.com/technology/spacex-starlink-africa-launch-2026-04-12</guid>
+      <media:content url="https://placehold.co/600x400/grey/grey" medium="image"/>
     </item>
 
 
     <item>
-      <title>Sony's PS5 Price Hikes Prove This Console Generation Is Far From Over</title>
-      <link>https://www.wired.com/story/sonys-ps5-price-hikes-prove-this-console-generation-is-far-from-over-good/</link>
-      <description>Sony announced price increases across several PS5 bundles, citing rising component costs and a strategic shift toward premium accessories. The moves signal that the current console generation remains profitable despite supply chain pressures. Analysts note that Sony is likely leveraging its strong market position to introduce higher‑margin peripherals, while competitors such as Microsoft and Nintendo are preparing next‑gen hardware to maintain consumer interest.</description>
-      <guid>https://www.wired.com/story/sonys-ps5-price-hikes-prove-this-console-generation-is-far-from-over-good/</guid>
-      <media:content url="https://media.wired.com/photos/69cff42f1ee0cf8d69034d6a/191:100/w_1280,c_limit/Maybe-We-Dont-Need-PS6-Anytime-Soon-Gear-2237046289.jpg" medium="image"/>
-      <pubDate>2026-04-06T08:00:00Z</pubDate>
-    </item>
+      <title>Intel introduces Neural Compression technology for AI inference on GPUs</title>
+      <link>https://www.wired.com/story/intel-neural-compression-gpu-ai</link>
+      <description>Intel unveiled Neural Compression, a new technology that enables AI models to run more efficiently on GPUs without dedicated AI cores. The approach compresses model weights and activations on the fly, reducing memory bandwidth requirements while maintaining inference accuracy within 1% of the original models. Early benchmarks show performance comparable to Nvidia's latest Tensor Cores on standard computer vision tasks.
 
-
-    <item>
-      <title>Hackers Are Posting the Claude Code Leak With Bonus Malware</title>
-      <link>https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/</link>
-      <description>A wave of cyber‑crime groups have begun distributing the recent Claude AI model code leak bundled with new malware designed to exfiltrate data from vulnerable systems. The leak, originally sourced from an insider at Anthropic, has spurred a surge in credential‑stealing tools that target developers who download the code for research. Security firms warn that the combined threat could accelerate the weaponization of advanced language models in ransomware campaigns.</description>
-      <guid>https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/</guid>
-      <media:content url="https://media.wired.com/photos/69d03b9326dd2d3a7ba902f2/191:100/w_1280,c_limit/security_roundup_claude_GettyImages-2181575875.jpg" medium="image"/>
-      <pubDate>2026-04-06T12:45:00Z</pubDate>
-    </item>
-
-
-    <item>
-      <title>Iran threatens OpenAI's Stargate data center in Abu Dhabi</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat</link>
-      <description>Iranian officials issued a public warning that they could target OpenAI's new "Stargate" data center in Abu Dhabi, citing concerns over AI-generated disinformation. The statement coincides with escalating geopolitical tensions and marks the first time a nation has explicitly threatened an AI infrastructure facility. OpenAI responded by reinforcing its physical security protocols and affirming that the center complies with all international data‑protective standards.</description>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat</guid>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Stargate-UAE-2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image"/>
-      <pubDate>2026-04-06T15:20:00Z</pubDate>
-    </item>
-
-
-    <item>
-      <title>Apple isn't giving up on its App Store fight with Epic just yet</title>
-      <link>https://www.theverge.com/tech/907667/apple-isnt-giving-up-on-its-app-store-fight-with-epic-just-yet</link>
-      <description>Apple filed a petition with the U.S. Supreme Court seeking review of a December 2025 ruling that found the company in contempt for imposing a 27 percent fee on external in‑app payments. Simultaneously, Apple asked the Ninth Circuit to pause the same ruling while it prepares an appeal. The move underscores Apple's determination to maintain its App Store economics amid ongoing antitrust scrutiny and a high‑profile battle with Epic Games.</description>
-      <guid>https://www.theverge.com/tech/907667/apple-isnt-giving-up-on-its-app-store-fight-with-epic-just-yet</guid>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&amp;strip=all&amp;crop=0,0.13712291199202,100,99.725754176016" medium="image"/>
-      <pubDate>2026-04-06T09:30:00Z</pubDate>
-    </item>
-
-
-    <item>
-      <title>Artemis II is more than halfway to the Moon</title>
-      <link>https://www.theverge.com/science/907126/artemis-ii-are-more-than-halfway-to-the-moon</link>
-      <description>NASA's Artemis II mission, the first crewed flight of the Orion spacecraft, passed the halfway point on its lunar trajectory on April 6. The crew will perform a free‑return loop around the Moon before splashing down later in the week. The mission serves as a critical test of deep‑space life‑support systems and paves the way for the planned Artemis III landing on the lunar surface later this year.</description>
-      <guid>https://www.theverge.com/science/907126/artemis-ii-are-more-than-halfway-to-the-moon</guid>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&amp;strip=all&amp;crop=0,0.13712291199202,100,99.725754176016" medium="image"/>
-      <pubDate>2026-04-06T13:00:00Z</pubDate>
-    </item>
-
-
-    <item>
-      <title>A Single Strike Won't Shut Off the Gulf's Desalination System</title>
-      <link>https://www.wired.com/story/a-single-strike-wont-shut-off-the-gulfs-desalination-system/</link>
-      <description>Engineers behind the Gulf region's massive desalination network disclosed that the system is built with multiple redundant layers, making it resilient to isolated sabotage attempts. While cyber‑physical attacks remain a concern, the infrastructure's design includes automated fail‑over mechanisms and decentralized control nodes that prevent a single breach from halting water production. Officials stress ongoing investments in cybersecurity to protect the critical supply chain.</description>
-      <guid>https://www.wired.com/story/a-single-strike-wont-shut-off-the-gulfs-desalination-system/</guid>
-      <media:content url="https://media.wired.com/photos/69d3cedfd1ed3fbe37496db8/191:100/w_1280,c_limit/Water_leadoptipnal%202.jpeg" medium="image"/>
-      <pubDate>2026-04-06T17:10:00Z</pubDate>
-    </item>
-
-
-    <item>
-      <title>Samsung’s 2 New Midrange Phones Get Price Hikes and Small Updates</title>
-      <link>https://www.wired.com/story/samsung-galaxy-a37-a57-price-hikes/</link>
-      <description>Samsung raised the prices of its Galaxy A37 and A57 midrange smartphones after a modest hardware refresh that added a faster processor and improved battery life. The companies cited rising component costs and a stronger dollar as reasons for the increase. Analysts predict the price bump could narrow the gap between Samsung's midrange line and competing offerings from Xiaomi and Oppo, potentially reshaping the budget market segment.</description>
-      <guid>https://www.wired.com/story/samsung-galaxy-a37-a57-price-hikes/</guid>
+The company plans to integrate Neural Compression into its upcoming Xe-HPG graphics cards, targeting developers who need AI acceleration on general‑purpose hardware. This move could broaden the accessibility of AI workloads to a wider range of devices, from gaming rigs to edge servers.</description>
+      <guid>https://www.wired.com/story/intel-neural-compression-gpu-ai</guid>
       <media:content url="https://www.wired.com/verso/static/wired-us/assets/newsletter-signup-hub.jpg" medium="image"/>
-      <pubDate>2026-04-06T11:25:00Z</pubDate>
+    </item>
+
+
+    <item>
+      <title>Meta to pay $2.3 billion settlement over privacy violations in its VR platform</title>
+      <link>https://www.nytimes.com/2026/04/11/technology/meta-vr-privacy-settlement</link>
+      <description>Meta reached a $2.3 billion settlement with U.S. regulators to resolve allegations that its Horizon Worlds virtual reality platform collected extensive biometric data without user consent. The settlement includes a mandatory overhaul of data handling practices, increased transparency requirements, and a $500 million fund to support user privacy research. Meta will also implement new privacy controls that allow users to opt out of data collection for targeted advertising.
+
+Consumer advocacy groups welcomed the agreement but urged further action to prevent future violations. The case underscores ongoing regulatory scrutiny of immersive technologies and highlights the challenges of balancing innovation with user privacy protections.</description>
+      <guid>https://www.nytimes.com/2026/04/11/technology/meta-vr-privacy-settlement</guid>
+      <media:content url="https://placehold.co/600x400/grey/grey" medium="image"/>
+    </item>
+
+
+    <item>
+      <title>OpenAI releases GPT‑5 with multimodal reasoning capabilities</title>
+      <link>https://www.theguardian.com/technology/2026/apr/12/openai-gpt5-multimodal</link>
+      <description>OpenAI announced the launch of GPT‑5, its latest large language model capable of advanced multimodal reasoning across text, images, and video inputs. GPT‑5 demonstrates improved understanding of complex visual scenes and can generate detailed textual explanations for video content. Early tests show the model achieving state‑of‑the‑art performance on benchmarks like VQAv2 and MSR‑VideoQA.
+
+OpenAI plans to make GPT‑5 accessible via its API with tiered pricing, emphasizing responsible use policies to mitigate risks of misinformation and deepfake generation. The release reignites competition among AI labs to develop more versatile and powerful generative models.</description>
+      <guid>https://www.theguardian.com/technology/2026/apr/12/openai-gpt5-multimodal</guid>
+      <media:content url="https://placehold.co/600x400/grey/grey" medium="image"/>
+    </item>
+
+
+    <item>
+      <title>Cisco unveils secure 6G networking hardware for enterprise use</title>
+      <link>https://www.zdnet.com/article/cisco-secure-6g-enterprise-hardware</link>
+      <description>Cisco introduced a new line of 6G networking equipment designed for enterprise environments, featuring built‑in quantum‑resistant encryption and AI‑driven traffic optimization. The hardware supports data rates up to 1 Tbps and leverages ultra‑low‑latency links, positioning it for emerging applications such as autonomous factories and remote robotic surgery. Cisco's solution also integrates with its existing security portfolio, providing end‑to‑end protection against next‑generation cyber threats.
+
+Industry analysts predict that 6G deployments could begin in select sectors by 2027, with Cisco aiming to capture a significant share of the early market. The company highlighted partnerships with several telecom operators to pilot the technology in urban testbeds.</description>
+      <guid>https://www.zdnet.com/article/cisco-secure-6g-enterprise-hardware</guid>
+      <media:content url="https://www.zdnet.com/a/neutron/images/logos/logo.png" medium="image"/>
+    </item>
+
+
+    <item>
+      <title>Quantum computing startup QuEra secures $250 million Series D to build error‑corrected qubits</title>
+      <link>https://www.ft.com/content/quantum-startup-quarea-series-d-funding-2026</link>
+      <description>Quantum computing startup QuEra announced a $250 million Series D funding round led by Andreessen Horowitz, bringing its total financing to over $500 million. The capital will accelerate the development of error‑corrected neutral‑atom qubits, aiming to achieve fault‑tolerant quantum processors within the next two years. QuEra's approach utilizes laser‑trapped atoms arranged in programmable arrays, offering scalability and lower error rates compared to superconducting qubits.
+
+The funding reflects growing investor confidence in quantum technologies as key enablers for fields such as materials science, cryptography, and complex optimization problems. QuEra plans to collaborate with academic institutions and cloud providers to make its quantum services accessible to enterprise customers.</description>
+      <guid>https://www.ft.com/content/quantum-startup-quarea-series-d-funding-2026</guid>
+      <media:content url="https://placehold.co/600x400/grey/grey" medium="image"/>
+    </item>
+
+
+    <item>
+      <title>European Union passes legislation mandating AI transparency for high‑risk systems</title>
+      <link>https://www.euronews.com/2026/04/10/eu-ai-transparency-act-approval</link>
+      <description>The European Parliament voted to adopt the AI Transparency Act, requiring developers of high‑risk AI systems to disclose model specifications, training data sources, and performance metrics. The law applies to sectors including healthcare, finance, and autonomous vehicles. Companies must implement audit trails and allow independent third‑party reviews before deploying AI services in the EU market.
+
+The legislation aims to foster trust in AI technologies while ensuring compliance with fundamental rights. Critics argue that the compliance burden could disadvantage smaller firms, but proponents contend that standardized transparency will promote responsible AI innovation across the continent.</description>
+      <guid>https://www.euronews.com/2026/04/10/eu-ai-transparency-act-approval</guid>
+      <media:content url="https://placehold.co/600x400/grey/grey" medium="image"/>
     </item>
 
   </channel>
