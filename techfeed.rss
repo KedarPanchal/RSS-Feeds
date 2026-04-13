@@ -6,112 +6,115 @@
     <description>Kedar's Daily Tech News Feed</description>
 
     <item>
-      <title>Microsoft unveils new AI-powered debugging tool for developers</title>
-      <link>https://www.theverge.com/2026/04/10/microsoft-debugai-launch</link>
-      <description>Microsoft announced the release of DebugAI, an artificial intelligence-powered debugging assistant integrated into Visual Studio. The tool uses large language models to analyze code, suggest bug fixes, and automatically generate unit tests. Early adopters report a 30% reduction in time spent troubleshooting complex applications. DebugAI also supports multiple programming languages, including Python, JavaScript, and C#. The launch reflects Microsoft's broader strategy to embed AI across its developer ecosystem and could reshape software development workflows by automating routine debugging tasks.
-
-Security experts note that while the tool improves productivity, it raises concerns about the privacy of proprietary code fed into AI models. Microsoft assures that all code analysis occurs locally without transmitting data to cloud services unless explicitly enabled. The company also introduced new licensing tiers, offering a free version for individual developers and a premium subscription for enterprise teams that need advanced features and priority support.</description>
-      <guid>https://www.theverge.com/2026/04/10/microsoft-debugai-launch</guid>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2024/10/the_verge_social_share.png" medium="image"/>
+      <title>Kalshi wins temporary pause in Arizona criminal case</title>
+      <link>https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/</link>
+      <description>The Commodity Futures Trading Commission secured a temporary restraining order that halts Arizona's criminal prosecution of prediction market platform Kalshi. Arizona had charged the firm with operating an illegal gambling business without a state license. The federal court's intervention stalls the case just days after a judge allowed it to proceed, providing Kalshi a brief window to contest the accusations. Legal experts note the move underscores the tension between emerging fintech platforms and traditional gambling regulations, potentially setting a precedent for how prediction markets are overseen nationwide.</description>
+      <guid>https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/</guid>
+      <media:content url="https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2237779170.jpg?resize=1200,800" medium="image"/>
     </item>
 
 
     <item>
-      <title>Google's Project Gemini reaches 1 exaFLOP performance on new TPU V4</title>
-      <link>https://www.cnet.com/tech/google-tpu-v4-exaflop-performance</link>
-      <description>Google's latest Tensor Processing Unit, the TPU V4, achieved a groundbreaking 1 exaFLOP of mixed-precision performance during the internal benchmarks of Project Gemini, its next-generation AI inference platform. The new hardware leverages a custom silicon design that optimizes power efficiency, enabling data centers to run more complex models with lower energy consumption. Google aims to deploy the TPU V4 across its cloud infrastructure by the end of 2026, offering customers unprecedented compute capacity for large language models and real-time AI services.
+      <title>TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it</title>
+      <link>https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/</link>
+      <description>TechCrunch announced its partnership with SusHi Tech Tokyo 2026, Asia's largest global innovation conference scheduled for April 27‑29 at Tokyo Big Sight. The event will showcase breakthroughs across AI, robotics, climate resilience, and entertainment, featuring live demos of humanoid robots and autonomous driving software. Startup Battlefield finalists will present cutting‑edge ventures to an international audience of investors and technologists. Organizers expect the gathering to amplify cross‑border collaborations and spotlight Asian startups poised to shape global tech trends.
 
-Analysts predict that this performance leap will intensify competition among cloud providers, as rivals such as Amazon and Microsoft race to match Google's compute capabilities. The advancement also opens possibilities for more sophisticated AI applications, including real-time language translation and advanced scientific simulations.</description>
-      <guid>https://www.cnet.com/tech/google-tpu-v4-exaflop-performance</guid>
-      <media:content url="https://www.cnet.com/a/neutron/images/logos/cnet.png" medium="image"/>
+Attendees will also gain insight into how AI is reshaping music and anime production, as well as deep dives into cyber‑defense strategies and climate‑tech solutions. The partnership signals TechCrunch’s commitment to expanding its coverage beyond Silicon Valley and amplifying diverse innovation ecosystems.</description>
+      <guid>https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/</guid>
+      <media:content url="https://techcrunch.com/wp-content/uploads/2026/04/STTchallenge.jpeg?w=800" medium="image"/>
     </item>
 
 
     <item>
-      <title>Apple announces privacy‑first AI chips for iPhone 16 line</title>
-      <link>https://www.bloomberg.com/news/articles/2026-04-11/apple-privacy-ai-chips-iphone-16</link>
-      <description>Apple unveiled a new family of AI accelerators called the Neural Secure Engine (NSE) that will be integrated into the upcoming iPhone 16 lineup. Unlike previous generations, the NSE processes all on‑device machine learning tasks within a secure enclave, ensuring that user data never leaves the phone. Features include enhanced image recognition, real‑time language translation, and improved battery efficiency for AI‑heavy applications.
-
-The company highlighted collaborations with privacy‑focused app developers and emphasized compliance with global data protection regulations. Industry observers anticipate that Apple's move will set a new standard for on‑device AI, potentially influencing how other manufacturers design hardware that prioritizes user privacy.</description>
-      <guid>https://www.bloomberg.com/news/articles/2026-04-11/apple-privacy-ai-chips-iphone-16</guid>
-      <media:content url="https://placehold.co/600x400/grey/grey" medium="image"/>
+      <title>Sam Altman responds to 'incendiary' New Yorker article after attack on his home</title>
+      <link>https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/</link>
+      <description>OpenAI CEO Sam Altman issued a public statement addressing a New Yorker feature that portrayed him as untrustworthy and highlighted internal board conflicts. Altman acknowledged mishandling past disputes that led to his brief removal as CEO in 2023 and expressed regret over the turmoil. He emphasized his commitment to transparency and responsible AI development, pledging to focus on safeguarding the organization’s mission. The response comes amid heightened scrutiny of AI governance and growing public concern over the concentration of power within large AI labs.</description>
+      <guid>https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/</guid>
+      <media:content url="https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800" medium="image"/>
     </item>
 
 
     <item>
-      <title>SpaceX Starlink launches 60 new satellites to expand broadband coverage in Africa</title>
-      <link>https://www.reuters.com/technology/spacex-starlink-africa-launch-2026-04-12</link>
-      <description>SpaceX successfully launched a batch of 60 next‑generation Starlink satellites from Kennedy Space Center, targeting improved broadband coverage across sub‑Saharan Africa. The new satellites feature advanced phased‑array antennas and higher throughput capacities, aiming to deliver speeds of up to 500 Mbps in remote regions. The rollout is part of SpaceX's partnership with several African telecom operators to bridge the digital divide and support emerging markets with reliable internet access.
+      <title>X says it's reducing payments to clickbait accounts</title>
+      <link>https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/</link>
+      <description>Social media platform X announced an overhaul of its monetization model aimed at curbing clickbait content. The company will lower revenue shares for accounts that primarily generate traffic through sensational headlines and low‑quality posts. X’s data team reported that clickbait channels accounted for a disproportionate share of ad impressions without driving meaningful user engagement. The policy shift is part of a broader effort to improve content quality, enhance advertiser confidence, and align payouts with genuine audience value. Early tests show a modest decline in clickbait volume and a rise in longer‑form, substantive posts.
 
-Regulatory bodies in Kenya and Nigeria have approved the deployment, and the first commercial services are expected to begin in Q4 2026. Analysts note that expanding Starlink's footprint could disrupt traditional terrestrial ISPs and accelerate digital transformation initiatives across the continent.</description>
-      <guid>https://www.reuters.com/technology/spacex-starlink-africa-launch-2026-04-12</guid>
-      <media:content url="https://placehold.co/600x400/grey/grey" medium="image"/>
+Industry analysts view the move as a response to advertiser pressure and regulatory focus on platform responsibility, marking another step toward more accountable social media economics.</description>
+      <guid>https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/</guid>
+      <media:content url="https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?resize=1200,832" medium="image"/>
     </item>
 
 
     <item>
-      <title>Intel introduces Neural Compression technology for AI inference on GPUs</title>
-      <link>https://www.wired.com/story/intel-neural-compression-gpu-ai</link>
-      <description>Intel unveiled Neural Compression, a new technology that enables AI models to run more efficiently on GPUs without dedicated AI cores. The approach compresses model weights and activations on the fly, reducing memory bandwidth requirements while maintaining inference accuracy within 1% of the original models. Early benchmarks show performance comparable to Nvidia's latest Tensor Cores on standard computer vision tasks.
+      <title>Google says Polymarket bets showing up in News was an ‘error’</title>
+      <link>https://www.theverge.com/tech/910691/google-news-polymarket-bets-error</link>
+      <description>Google confirmed that prediction‑market platform Polymarket appeared in Google News search results due to a technical glitch. The company quickly removed the entries and is auditing its indexing processes to prevent future misplacements. Polymarket, which allows users to bet on real‑world events, had not previously been classified as a news source. The incident sparked debate about the blurring lines between financial speculation tools and reputable news outlets, prompting regulators to call for clearer guidelines on algorithmic curation of search results.
 
-The company plans to integrate Neural Compression into its upcoming Xe-HPG graphics cards, targeting developers who need AI acceleration on general‑purpose hardware. This move could broaden the accessibility of AI workloads to a wider range of devices, from gaming rigs to edge servers.</description>
-      <guid>https://www.wired.com/story/intel-neural-compression-gpu-ai</guid>
-      <media:content url="https://www.wired.com/verso/static/wired-us/assets/newsletter-signup-hub.jpg" medium="image"/>
+Google’s statement emphasized its commitment to maintaining accurate news ecosystems and pledged additional safeguards for content verification.</description>
+      <guid>https://www.theverge.com/tech/910691/google-news-polymarket-bets-error</guid>
+      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_Google_04.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image"/>
     </item>
 
 
     <item>
-      <title>Meta to pay $2.3 billion settlement over privacy violations in its VR platform</title>
-      <link>https://www.nytimes.com/2026/04/11/technology/meta-vr-privacy-settlement</link>
-      <description>Meta reached a $2.3 billion settlement with U.S. regulators to resolve allegations that its Horizon Worlds virtual reality platform collected extensive biometric data without user consent. The settlement includes a mandatory overhaul of data handling practices, increased transparency requirements, and a $500 million fund to support user privacy research. Meta will also implement new privacy controls that allow users to opt out of data collection for targeted advertising.
+      <title>The new show making fun of tech bros</title>
+      <link>https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/</link>
+      <description>A satirical comedy series titled "The Audacity" debuted on AMC, critiquing Silicon Valley culture and tech‑industry stereotypes. The show, crafted by former tech insiders, follows a group of over‑ambitious founders navigating absurd venture‑capital rituals, AI hype, and startup burnout. By releasing the premiere in 21 short clips on TikTok, AMC tapped into the platform’s snackable format to attract younger audiences while highlighting the series’ commentary on the modern tech ecosystem.
 
-Consumer advocacy groups welcomed the agreement but urged further action to prevent future violations. The case underscores ongoing regulatory scrutiny of immersive technologies and highlights the challenges of balancing innovation with user privacy protections.</description>
-      <guid>https://www.nytimes.com/2026/04/11/technology/meta-vr-privacy-settlement</guid>
-      <media:content url="https://placehold.co/600x400/grey/grey" medium="image"/>
+Critics praised the show’s sharp writing and its willingness to lampoon the excesses of venture funding, noting that it could spark broader conversations about ethical tech development and founder responsibility.</description>
+      <guid>https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/</guid>
+      <media:content url="https://techcrunch.com/wp-content/uploads/2026/04/audacity.jpeg?resize=1200,800" medium="image"/>
     </item>
 
 
     <item>
-      <title>OpenAI releases GPT‑5 with multimodal reasoning capabilities</title>
-      <link>https://www.theguardian.com/technology/2026/apr/12/openai-gpt5-multimodal</link>
-      <description>OpenAI announced the launch of GPT‑5, its latest large language model capable of advanced multimodal reasoning across text, images, and video inputs. GPT‑5 demonstrates improved understanding of complex visual scenes and can generate detailed textual explanations for video content. Early tests show the model achieving state‑of‑the‑art performance on benchmarks like VQAv2 and MSR‑VideoQA.
+      <title>Apple reportedly testing out four different styles for its smart glasses</title>
+      <link>https://www.engadget.com/wearables/apple-reportedly-testing-out-four-different-styles-for-its-smart-glasses-that-will-rival-meta-ray-bans-200550013.html</link>
+      <description>Bloomberg’s Mark Gurman reported that Apple is evaluating four design variations for its upcoming augmented‑reality smart glasses, internally codenamed N50. The prototypes aim to compete directly with Meta’s Ray‑Ban collaboration, offering integrated photo and video capture, seamless iPhone sync, and deep integration with Apple’s ecosystem, including Siri and iOS 27 features. The company could reveal the glasses by the end of 2026, with a potential market launch in 2027. Analysts suggest the hardware could usher in a new wave of consumer AR applications, ranging from immersive media consumption to advanced navigation.
 
-OpenAI plans to make GPT‑5 accessible via its API with tiered pricing, emphasizing responsible use policies to mitigate risks of misinformation and deepfake generation. The release reignites competition among AI labs to develop more versatile and powerful generative models.</description>
-      <guid>https://www.theguardian.com/technology/2026/apr/12/openai-gpt5-multimodal</guid>
-      <media:content url="https://placehold.co/600x400/grey/grey" medium="image"/>
+Apple’s cautious rollout strategy reflects lessons learned from previous wearables, emphasizing privacy, battery life, and a premium pricing model to differentiate from mass‑market alternatives.</description>
+      <guid>https://www.engadget.com/wearables/apple-reportedly-testing-out-four-different-styles-for-its-smart-glasses-that-will-rival-meta-ray-bans-200550013.html</guid>
+      <media:content url="https://s.yimg.com/ny/api/res/1.2/ICZBD7L7E27KsLRgT86q3Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2026-04/123d2070-369c-11f1-bfe7-4039d7ee8599" medium="image"/>
     </item>
 
 
     <item>
-      <title>Cisco unveils secure 6G networking hardware for enterprise use</title>
-      <link>https://www.zdnet.com/article/cisco-secure-6g-enterprise-hardware</link>
-      <description>Cisco introduced a new line of 6G networking equipment designed for enterprise environments, featuring built‑in quantum‑resistant encryption and AI‑driven traffic optimization. The hardware supports data rates up to 1 Tbps and leverages ultra‑low‑latency links, positioning it for emerging applications such as autonomous factories and remote robotic surgery. Cisco's solution also integrates with its existing security portfolio, providing end‑to‑end protection against next‑generation cyber threats.
-
-Industry analysts predict that 6G deployments could begin in select sectors by 2027, with Cisco aiming to capture a significant share of the early market. The company highlighted partnerships with several telecom operators to pilot the technology in urban testbeds.</description>
-      <guid>https://www.zdnet.com/article/cisco-secure-6g-enterprise-hardware</guid>
-      <media:content url="https://www.zdnet.com/a/neutron/images/logos/logo.png" medium="image"/>
+      <title>The US government wants Reddit to snitch on one of its users through a grand jury</title>
+      <link>https://www.engadget.com/social-media/the-us-government-wants-reddit-to-snitch-on-one-of-its-users-through-a-grand-jury-190532844.html</link>
+      <description>Immigration and Customs Enforcement obtained a grand‑jury subpoena compelling Reddit to disclose the identity of a user who allegedly criticized ICE. The government’s move, reported by The Intercept, highlights increasing pressure on online platforms to reveal anonymous speech under First Amendment claims. Reddit’s legal team argued that the subpoena threatens free expression and set a concerning precedent for online anonymity. The case underscores a broader trend of law‑enforcement agencies seeking user data from social media sites, prompting renewed debate over digital privacy and constitutional protections.</description>
+      <guid>https://www.engadget.com/social-media/the-us-government-wants-reddit-to-snitch-on-one-of-its-users-through-a-grand-jury-190532844.html</guid>
+      <media:content url="https://s.yimg.com/ny/api/res/1.2/Xv6gUgFBMGRYnGCzwX__5w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-02/495e8f80-eb11-11ef-bfe7-84e0abfe4e84" medium="image"/>
     </item>
 
 
     <item>
-      <title>Quantum computing startup QuEra secures $250 million Series D to build error‑corrected qubits</title>
-      <link>https://www.ft.com/content/quantum-startup-quarea-series-d-funding-2026</link>
-      <description>Quantum computing startup QuEra announced a $250 million Series D funding round led by Andreessen Horowitz, bringing its total financing to over $500 million. The capital will accelerate the development of error‑corrected neutral‑atom qubits, aiming to achieve fault‑tolerant quantum processors within the next two years. QuEra's approach utilizes laser‑trapped atoms arranged in programmable arrays, offering scalability and lower error rates compared to superconducting qubits.
-
-The funding reflects growing investor confidence in quantum technologies as key enablers for fields such as materials science, cryptography, and complex optimization problems. QuEra plans to collaborate with academic institutions and cloud providers to make its quantum services accessible to enterprise customers.</description>
-      <guid>https://www.ft.com/content/quantum-startup-quarea-series-d-funding-2026</guid>
-      <media:content url="https://placehold.co/600x400/grey/grey" medium="image"/>
+      <title>Best 2-in-1 Laptops (2026): Microsoft, Lenovo, and the iPad</title>
+      <link>https://www.wired.com/story/best-2-in-1-laptops/</link>
+      <description>WIRED’s latest roundup evaluates the top 2‑in‑1 laptops released in 2026, highlighting Microsoft’s Surface Pro 10, Lenovo’s Yoga 9i, and Apple’s M4 iPad Air paired with the Magic Keyboard. Reviewers praised the iPad Air’s performance boost and seamless keyboard integration, positioning it as a cost‑effective alternative to traditional laptops. The Surface Pro 10 leads in versatility with its detachable keyboard and Windows 12 OS, while the Yoga 9i offers a premium hinge and long battery life. The guide advises consumers to prioritize ecosystem compatibility and usage scenarios when selecting a convertible device.</description>
+      <guid>https://www.wired.com/story/best-2-in-1-laptops/</guid>
+      <media:content url="https://media.wired.com/photos/69d97a455fe1d8ccec2519b2/191:100/w_1280,c_limit/The-Best-2-in-1-Laptops.jpg" medium="image"/>
     </item>
 
 
     <item>
-      <title>European Union passes legislation mandating AI transparency for high‑risk systems</title>
-      <link>https://www.euronews.com/2026/04/10/eu-ai-transparency-act-approval</link>
-      <description>The European Parliament voted to adopt the AI Transparency Act, requiring developers of high‑risk AI systems to disclose model specifications, training data sources, and performance metrics. The law applies to sectors including healthcare, finance, and autonomous vehicles. Companies must implement audit trails and allow independent third‑party reviews before deploying AI services in the EU market.
+      <title>How Iran out‑shitposted the White House</title>
+      <link>https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop</link>
+      <description>The Verge examined Iran’s sophisticated use of AI‑generated disinformation during recent conflicts, noting that state‑run media flooded platforms with AI‑enhanced videos of explosions and battlefield footage. Iran’s approach combined deep‑fake technology with coordinated bot activity, aiming to shape international narratives and undermine U.S. messaging. The analysis contrasts Iran’s tactics with those of Israel and other actors, highlighting the growing role of generative AI in state‑level propaganda and the challenges it poses for verification by independent journalists and platforms.
 
-The legislation aims to foster trust in AI technologies while ensuring compliance with fundamental rights. Critics argue that the compliance burden could disadvantage smaller firms, but proponents contend that standardized transparency will promote responsible AI innovation across the continent.</description>
-      <guid>https://www.euronews.com/2026/04/10/eu-ai-transparency-act-approval</guid>
-      <media:content url="https://placehold.co/600x400/grey/grey" medium="image"/>
+Experts called for stronger detection tools and policy frameworks to mitigate AI‑driven geopolitical misinformation.</description>
+      <guid>https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop</guid>
+      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Vrg_illo_k_radtke_shitpost_iran_white_house.jpg?quality=90&amp;strip=all&amp;crop=0%2C6.369982547993%2C100%2C87.260034904014&amp;w=1200" medium="image"/>
+    </item>
+
+
+    <item>
+      <title>Generative AI illustration in The New Yorker is generating questions</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai</link>
+      <description>The Verge explored the controversy surrounding a New Yorker illustration created with generative AI by artist David Szauder. Critics argue that AI‑assisted artwork blurs the line between human creativity and algorithmic output, potentially eroding the value of traditional illustration. The piece sparked debate over copyright, artistic authenticity, and the future of illustration in publishing. While some see AI as a tool that can augment creative processes, others warn it may displace skilled artists and dilute artistic standards.
+
+The article calls for clearer industry guidelines on AI‑generated content to preserve artistic integrity while embracing technological innovation.</description>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai</guid>
+      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268452_New_Yorker_AI_art_CVirginia3.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image"/>
     </item>
 
   </channel>
